@@ -61,8 +61,8 @@ src/
 1. **Clone the Repository**:
 
    ```bash
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone https://github.com/Habibullah-R/24-hours-story.git
+   cd 24-hours-story
    ```
 
 2. **Install Dependencies**:
